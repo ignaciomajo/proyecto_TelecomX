@@ -5,7 +5,7 @@
 ## Índice 📋
 
 1. Descripción del proyecto.
-2. [Acceso al proyecto](#2-acceso-al-proyecto)
+2. [Acceso al proyecto](#acceso-al-proyecto)
 3. Etapas del proyecto.
 4. Descripción de los datos
 5. Resultados y conclusiones
