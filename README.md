@@ -17,7 +17,7 @@
 
 <br><br><br><br><br>
 
-## 2. Acceso al proyecto 📂
+## Acceso al proyecto
 
 Para obtener el proyecto tienes dos opciones:
 
