@@ -195,7 +195,7 @@ Esto descargará un archivo comprimido `.zip`, que podras alojar en el directori
 
 ![Static Badge](https://img.shields.io/badge/Python-3.11.7-blue) <br>
 ![Static Badge](https://img.shields.io/badge/Numpy-1.26.4-green) ![Static Badge](https://img.shields.io/badge/pandas-2.2.2-green) ![Static Badge](https://img.shields.io/badge/matplotlib-3.10.0-green)
-![Static Badge](https://img.shields.io/badge/seaborn-0.13.2-green) ![Static Badge](https://img.shields.io/badge/folium-0.19.5-green) ![Static Badge](https://img.shields.io/badge/scikit_learn-1.5.2-green)
+![Static Badge](https://img.shields.io/badge/seaborn-0.13.2-green)
 
 * `Jupyter Notebook`
 * `Git and GitHub`
