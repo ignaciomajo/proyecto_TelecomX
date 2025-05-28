@@ -1,6 +1,7 @@
 # Proyecto: Telecom X - Etapa 1 - Churn de Clientes
 
-![cover_telecom_x](https://github.com/user-attachments/assets/3f5ed1f7-e355-4903-a7c2-a55b035dc77c)
+![telecom_x](https://github.com/user-attachments/assets/77e0d960-db83-4d26-abb7-3a990f2fee92)
+
 
 
 ## Índice 📋
