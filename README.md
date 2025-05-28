@@ -112,7 +112,7 @@ Esto descargará un archivo comprimido `.zip`, que podras alojar en el directori
 | `ChargesDaily`    | Numérica   | Estimación diaria del costo del cliente   | float (`Charges.Monthly/30`)                   | Nueva variable        |
 
 
-*Nota: Se eliminaron los valores correspondientes a `No phone service` y `No internet service`, dejando solo dos valores para los feature correspondientes.**
+*Nota: Se eliminaron los valores correspondientes a `No phone service` y `No internet service`, dejando solo dos valores para los features correspondientes.**
 
 <br><br>
 ## 5. Resultados y conclusiones ✍️
