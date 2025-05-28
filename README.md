@@ -70,103 +70,103 @@ Esto descargará un archivo comprimido `.zip`, que podras alojar en el directori
 
 `CustomerID:` Código identificador único de cliente
 
-`Gender:` Género biológico del cliente.
-   Variable Categórica 
-   Binaria: Sí, No
+`Gender:` Género biológico del cliente.<br>
+   Variable Categórica <br>
+   Binaria: Sí, No<br>
+   Preprocesados: 0, 1<br>
+   
+`SeniorCitizen:` Condición de adulto mayor (65 años o más).<br>
+   Variable Categórica <br>
+   Binaria: Sí, No<br>
+   Preprocesados: 0, 1<br>
+   
+`Partner:` Condición de pareja estable. <br>
+   Variable Categórica <br>
+   Binaria: Sí, No <br>
+   Preprocesados: 0, 1 <br>
+   
+`Dependents:` Condición de personas a cargo. <br>
+   Binaria: Sí, No <br>
    Preprocesados: 0, 1
    
-`SeniorCitizen:` Condición de adulto mayor (65 años o más)
-   Variable Categórica 
-   Binaria: Sí, No
-   Preprocesados: 0, 1
+`Tenure:` Antigüedad del cliente en meses.
+   Variable Numérica <br>
+   Tipo: int <br>
    
-`Partner:` Condición de pareja estable
-   Variable Categórica 
-   Binaria: Sí, No
-   Preprocesados: 0, 1
+`PhoneService:` Condición de servicio de servicio de teléfono. <br>
+   Variable Categórica <br>
+   Binaria: Sí, No <br>
+   Preprocesados: 0, 1 <br>
    
-`Dependents:` Condición de personas a cargo
-   Binaria: Sí, No
-   Preprocesados: 0, 1
+`MultipleLines:` Condición de servicio de múltiples lineas de teléfono. <br>
+   Variable Categórica <br>
+   Binaria: Sí, No <br>
+   Preprocesados: 0, 1 <br>
    
-`Tenure:` Antigüedad del cliente en meses
-   Variable Numérica: 
-   Tipo: int
+`InternetService:` Condición de servicio de servicio de internet. <br>
+   Variable Categórica <br>
+   Binaria: Sí, No <br>
+   Preprocesados: 0, 1 <br>
    
-`PhoneService:` Condición de servicio de servicio de teléfono
-   Variable Categórica 
-   Binaria: Sí, No
-   Preprocesados: 0, 1
-   
-`MultipleLines:` Condición de servicio de múltiples lineas de teléfono
-   Variable Categórica 
-   Binaria: Sí, No
-   Preprocesados: 0, 1
-   
-`InternetService:` Condición de servicio de servicio de internet
-   Variable Categórica 
-   Binaria: Sí, No
-   Preprocesados: 0, 1
-   
-`OnlineSecurity:` Condición de servicio de seguridad online
-   Variable Categórica 
-   Binaria: Sí, No
-   Preprocesados: 0, 1
+`OnlineSecurity:` Condición de servicio de seguridad online. <br>
+   Variable Categórica <br>
+   Binaria: Sí, No <br>
+   Preprocesados: 0, 1 <br>
 
-`OnlineBackup:` Condición de servicio de copias de seguridad online
-   Variable Categórica 
-   Binaria: Sí, No
-   Preprocesados: 0, 1
+`OnlineBackup:` Condición de servicio de copias de seguridad online. <br>
+   Variable Categórica <br>
+   Binaria: Sí, No <br>
+   Preprocesados: 0, 1 <br>
    
-`DeviceProtection:` Condición de servicio de seguro de dispositivos
-   Binaria: Sí, No
-   Preprocesados: 0, 1
+`DeviceProtection:` Condición de servicio de seguro de dispositivos. <br>
+   Binaria: Sí, No <br>
+   Preprocesados: 0, 1 <br>
    
-`TechSupport:` Condición de servicio de soporte técnico
-   Variable Categórica 
-   Binaria: Sí, No
-   Preprocesados: 0, 1
+`TechSupport:` Condición de servicio de soporte técnico. <br>
+   Variable Categórica <br>
+   Binaria: Sí, No <br>
+   Preprocesados: 0, 1 <br>
    
-`StreamingTV:` Condición de servicio de transmisión cable (televisión)
-   Variable Categórica 
-   Binaria: Sí, No
-   Preprocesados: 0, 1
+`StreamingTV:` Condición de servicio de transmisión cable (televisión). <br>
+   Variable Categórica <br>
+   Binaria: Sí, No <br>
+   Preprocesados: 0, 1 <br>
    
-`StreamingMovies:` Condición de servicio de transmisión de películas
-   Variable Categórica 
-   Binaria: Sí, No
-   Preprocesados: 0, 1
+`StreamingMovies:` Condición de servicio de transmisión de películas. <br>
+   Variable Categórica <br>
+   Binaria: Sí, No <br>
+   Preprocesados: 0, 1 <br>
    
-`Contract:` Tipo de contrato adquirido por el cliente
-   Variable Categórica:
-   Etiquetas: Two Year (dos años), One year (un año), Month-To-Month (Mes a Mes)
+`Contract:` Tipo de contrato adquirido por el cliente. <br>
+   Variable Categórica <br>
+   Etiquetas: Two Year (dos años), One year (un año), Month-To-Month (Mes a Mes) <br>
    
-`PaperlessBilling:` Condición de factura digital
-   Variable Categórica 
-   Binaria: Sí, No
-   Preprocesados: 0, 1
+`PaperlessBilling:` Condición de factura digital. <br>
+   Variable Categórica <br>
+   Binaria: Sí, No <br>
+   Preprocesados: 0, 1 <br>
    
-`PaymentMethod:` Metodo de pago utilizado para pagar por los servicios contratados
-   Variable Categórica
+`PaymentMethod:` Metodo de pago utilizado para pagar por los servicios contratados. <br>
+   Variable Categórica <br>
    Etiquetas: Mailed check (Factura por correo), Electronic check (factura electrónica), Credit card (automatic) (Tarjeta de Crédito (automático), 
               Bank transfer (automatic) (Transferencia Bancaria (automático)
 
-`ChargesDaily:` Gasto diario del cliente
-   Variable Numérica
-   Tipo: float
+`ChargesDaily:` Gasto diario del cliente. <br>
+   Variable Numérica <br>
+   Tipo: float <br>
    
-`ChargesMonthly:` Gasto mensual del cliente
-   Variable Numérica
-   Tipo: float
+`ChargesMonthly:` Gasto mensual del cliente. <br>
+   Variable Numérica <br>
+   Tipo: float <br>
    
-`ChargesTotal:` Gasto total acumulado en el ciclo de vida del cliente
-   Variable Numérica
-   Tipo: float
+`ChargesTotal:` Gasto total acumulado en el ciclo de vida del cliente. <br>
+   Variable Numérica <br>
+   Tipo: float <br>
    
-`Churn:` Condición de abandono del cliente
-   Variable Categórica 
-   Binaria: Sí, No
-   Preprocesados: 0, 1
+`Churn:` Condición de abandono del cliente. <br>
+   Variable Categórica <br>
+   Binaria: Sí, No <br>
+   Preprocesados: 0, 1 <br>
 
    
 ## 5. Resultados y conclusiones ✍️
