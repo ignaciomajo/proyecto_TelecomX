@@ -29,7 +29,7 @@ A través del análisis de datos, se encontraron relaciones entre distintas vari
 Finalmente, se desarrolló un reporte ejecutivo con los puntos clave del análisis, acompañado de visualizaciones e insights que justifican las conclusiones. Se incluyen también sugerencias estratégicas para aumentar la retención de clientes.<br>
 Dicho reporte se encuentra en el directorio **reports**📂 del presente repositorio en formato PDF y PowerPoint.<br><br>
 
-### *Nota: Estandarización y transformación de datos (opcional)*
+### *Nota: Estandarización y transformación de datos*
 
 Inicialmente los valores Yes y No no fueron mapeados a 1 y 0, ya que es con el objetivo de realizar un resumen ejecutivo, resulta más intuitivo leer palabras como **Yes** y **No**, que identificar que 1 es positivo y 0 es negativo.
 
