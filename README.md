@@ -1,5 +1,6 @@
 # Proyecto: Telecom X - Etapa 1 - Churn de Clientes
 
+![cover_telecom_x](https://github.com/user-attachments/assets/3f5ed1f7-e355-4903-a7c2-a55b035dc77c)
 
 
 ## Índice 📋
@@ -24,7 +25,7 @@ A lo largo del análisis, se desarrollaron distintas hipótesis y experimentos q
 
 A través del análisis de datos, se encontraron relaciones entre distintas variables que permiten segmentar los grupos de clientes que cancelaron sus servicios y los que permancen en la empresa.
 
-Finalmente se desarrollaró un reporte ejecutivo con los puntos claves descubiertos a lo largo del análisis, justificados con los insights y visualizaciónes correspondientes, y en el cual se agregaron también sugerencias estratégicas para aumentar la retención de clientes.
+Finalmente se desarrollaró un reporte ejecutivo con los puntos claves descubiertos a lo largo del análisis, justificados con los insights y visualizaciónes correspondientes, y en el cual se agregaron también sugerencias estratégicas para aumentar la retención de clientes.<br>
 Dicho reporte se encuentra en el directorio **reports**📂 del presente repositorio en formato PDF y PowerPoint.
 
 ## Acceso al proyecto 📂
