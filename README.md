@@ -19,11 +19,13 @@ Proyecto "Churn de Clientes" para la compañía Telecom X.
 
 Un proveedor de servicios de telecomunicación se encuentra ante una alta tasa de evasión de clientes.
 
-El objetivo de este proyecto será analizar, a partir de los datos provistos por la empresa, cuales son los factores que más influyen en la cancelación de los servicios, como así también entender las características de aquellos clientes que permanecen en la empresa, justificando los hallazgos a través del storytelling detrás de los datos.
+El objetivo de este proyecto fue analizar distintos factores y características que impactan en el abandono de clientes para la empresa en cuestión.
+A lo largo del análisis, se desarrollaron distintas hipótesis y experimentos que permitieran evaluar las razones por las cuales los clientes deciden abandonar la compañía.
 
-A lo largo del análisis, se desarrollarán distintas hipótesis y se realizarán los experimentos necesarios para que estas sean aprobadas o refutadas, permitiendo así desarrollar estrategias orientadas a mejorar la experiencia del usuario y de esta manera disminuir la tasa de evasión por parte de los clientes.
+A través del análisis de datos, se encontraron relaciones entre distintas variables que permiten segmentar características comunes entre el grupo de clientes que cancelaron sus servicios, así como descubrir las características de aquellos que permanecen en la empresa.
 
-Finalmente se desarrollará un reporte ejecutivo con los puntos claves descubiertos a lo largo del presente análisis.
+Finalmente se desarrollaró un reporte ejecutivo con los puntos claves descubiertos a lo largo del análisis, justificados con los insights y visualizaciónes correspondientes, y en el cual se agregaron también sugerencias estratégicas para aumentar la retención de clientes.
+Dicho reporte se encuentra en el directorio **reports**📂 del presente repositorio en formato PDF y PowerPoint.
 
 ## Acceso al proyecto 📂
 
