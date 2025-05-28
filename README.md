@@ -107,9 +107,9 @@ Esto descargará un archivo comprimido `.zip`, que podras alojar en el directori
 | `Contract`         | Categórica | Tipo de contrato                          | `'Month-to-month'`, `'One year'`, `'Two year'` | One-hot               |
 | `PaperlessBilling` | Categórica | Si el cliente usa facturación electrónica | `'Yes'`, `'No'`                                | `1`, `0`              |
 | `PaymentMethod`    | Categórica | Método de pago                            | 4 categorías                                   | One-hot               |
-| `Charges.Monthly`  | Numérica   | Costo mensual del servicio                | float                                          | Igual                 |
-| `Charges.Total`    | Numérica   | Costo total acumulado del cliente         | float                                          | Limpiado y convertido |
-| `Charges.Daily`    | Numérica   | Estimación diaria del costo del cliente   | float (`Charges.Monthly/30`)                   | Nueva variable        |
+| `ChargesMonthly`  | Numérica   | Costo mensual del servicio                | float                                          | Igual                 |
+| `ChargesTotal`    | Numérica   | Costo total acumulado del cliente         | float                                          | Limpiado y convertido |
+| `ChargesDaily`    | Numérica   | Estimación diaria del costo del cliente   | float (`Charges.Monthly/30`)                   | Nueva variable        |
 
 
 *Nota: Se eliminaron los valores correspondientes a `No phone service` y `No internet service`, dejando solo dos valores para los feature correspondientes.**
