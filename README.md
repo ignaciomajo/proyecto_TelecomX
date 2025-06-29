@@ -97,7 +97,7 @@ Esto descargará un archivo comprimido `.zip`, que podras alojar en el directori
 | `tenure`           | Numérica   | Antigüedad en meses                       | `0` a `72`                                     | Igual                 |
 | `PhoneService`     | Categórica | Si tiene servicio telefónico              | `'Yes'`, `'No'`                                | `1`, `0`              |
 | `MultipleLines`    | Categórica | Si tiene múltiples líneas telefónicas     | `'Yes'`, `'No'`, `'No phone service'`          | `1`, `0`              |
-| `InternetService`  | Categórica | Tipo de conexión a internet               | `'DSL'`, `'Fiber optic'`, `'No'`               | `1`, `0`              |
+| `InternetService`  | Categórica | Tipo de conexión a internet               | `'DSL'`, `'Fiber optic'`, `'No'`               | One-hot               |
 | `OnlineSecurity`   | Categórica | Seguridad en línea                        | `'Yes'`, `'No'`, `'No internet service'`       | `1`, `0`              |
 | `OnlineBackup`     | Categórica | Respaldo en línea                         | `'Yes'`, `'No'`, `'No internet service'`       | `1`, `0`              |
 | `DeviceProtection` | Categórica | Protección de dispositivo                 | `'Yes'`, `'No'`, `'No internet service'`       | `1`, `0`              |
